@@ -1,0 +1,20 @@
+.title {
+	font-family: 'Special Elite', cursive;
+}
+
+.card-header {
+	background-color: darkolivegreen;
+}
+
+.jumbotron {
+	background-color: darkolivegreen;
+}
+
+.schedule {
+	background-color: rgb(129, 121, 111);
+}
+
+.jumbotron {
+	padding: 1em;
+	text-align: center;
+}
